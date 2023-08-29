@@ -106,5 +106,8 @@ Running the code above gives:
   <img width="400" src="./.github/images/simple-example.png" alt="Simple Example Result">
 </p>
 
+# Documentation
+The documentation for the latest version is available [here](https://natoune.github.io/nodegl/).
+
 # License
 This package is licensed under MIT License. You can see more about it [here](./LICENSE.md)
